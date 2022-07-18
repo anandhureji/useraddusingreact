@@ -14,6 +14,7 @@ function NewExpense(props) {
 
     props.onAddExpense(expenseData);
     console.log(expenseData);
+    console.log("helo");
 
   };
 
